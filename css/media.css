@@ -1,0 +1,503 @@
+/* Small devices (mobile phones, 575px) */
+@media (max-width: 575px) {
+    .logu a {
+        font-size: 20px;
+    }
+
+    .home-img img {
+        display: none;
+    }
+
+    .home_content {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .text-1 h2 {
+        font-size: 20px;
+    }
+
+    .text-2 h1 {
+        font-size: 30px;
+    }
+
+    .text-3 p {
+        padding: 0 6px;
+    }
+
+    .home-button {
+        margin-top: 21px;
+    }
+
+    .home-button a span {
+        font-size: 17px;
+    }
+
+    .home-button a {
+        padding: 8px 20px;
+        font-size: 15px;
+    }
+
+    header {
+        padding-bottom: 40px;
+    }
+
+    /* about me start */
+    .about_header h1 {
+        font-size: 35px;
+    }
+
+    .about_header p {
+        font-size: 15px;
+    }
+
+    .line1 {
+        display: none;
+    }
+
+    .line2 {
+        display: none;
+    }
+
+    .about_header {
+        margin: 40px 0 28px;
+    }
+
+    .about-img img {
+        height: 310px;
+        width: 250px;
+    }
+
+    .about-content p {
+        font-size: 16px;
+        margin: 20px 0px;
+    }
+
+    .d-cv {
+        margin-top: 35px;
+        text-align: center;
+    }
+
+    .d-cv a {
+        padding: 10px 20px;
+    }
+
+    .aboutMe {
+        margin-bottom: 50px;
+    }
+
+    /* servies start */
+    .servies_header h1 {
+        font-size: 40px;
+    }
+
+    .servies_header {
+        padding: 40px 0 35px;
+    }
+
+    .servies1 {
+        padding: 26px 10px;
+        margin: 10px 0;
+    }
+
+    .servies1 h2 {
+        font-size: 30px;
+    }
+
+    .servies_content {
+        padding-bottom: 40px;
+    }
+
+    .resume-items .item .card-header>span {
+        font-size: 14px;
+    }
+
+    .skils_header p {
+        font-size: 15px;
+    }
+
+    .servies_header p {
+        font-size: 15px;
+    }
+
+    /* skils start */
+    .skils_header h1 {
+        font-size: 40px;
+    }
+
+    .col-12 {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .experiance {
+        margin-bottom: 20px;
+    }
+
+    /* jobs & education start */
+    .resume-items .item .card-body p {
+        padding-right: 45px;
+    }
+
+
+    .title-section {
+        margin-bottom: 30px;
+        margin-top: 60px;
+    }
+
+    .contact-container .contact .rightside .submit-form {
+        text-align: center;
+    }
+
+    .contact-container .contact .rightside .form-message {
+        margin: 0;
+    }
+
+    .copyRight p {
+        font-size: 16px;
+    }
+
+    .resume-container {
+        background-color: #f6f4f1;
+        padding: 0px 0 50px;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .logu a {
+        font-size: 25px;
+    }
+
+    .home-img img {
+        display: none;
+    }
+
+    .home_content {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .text-2 h1 {
+        font-size: 40px;
+    }
+
+    .text-3 p {
+        padding: 0 26px;
+    }
+
+    .home-button {
+        margin-top: 21px;
+    }
+
+    .home-button a span {
+        font-size: 17px;
+    }
+
+    .home-button a {
+        padding: 8px 20px;
+        font-size: 15px;
+    }
+
+    header {
+        padding-bottom: 40px;
+    }
+
+    /* about me start */
+    .about_header h1 {
+        font-size: 40px;
+    }
+
+    .line1 {
+        display: none;
+    }
+
+    .line2 {
+        display: none;
+    }
+
+    .about_header {
+        margin: 40px 0 28px;
+    }
+
+    .about-img img {
+        height: 400px;
+        width: 350px;
+    }
+
+    .about-content p {
+        font-size: 16px;
+        margin: 20px 0px;
+    }
+
+    .d-cv {
+        margin-top: 35px;
+        text-align: center;
+    }
+
+    .d-cv a {
+        padding: 10px 20px;
+    }
+
+    .aboutMe {
+        margin-bottom: 50px;
+    }
+
+    /* servies start */
+    .servies_header h1 {
+        font-size: 40px;
+    }
+
+    .servies_header {
+        padding: 40px 0 35px;
+    }
+
+    .servies1 {
+        padding: 26px 48px;
+        margin: 10px 40px;
+    }
+
+    .servies_content {
+        padding-bottom: 40px;
+    }
+
+    /* skils start */
+    .skils_header h1 {
+        font-size: 40px;
+    }
+
+    .col-12 {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .experiance {
+        margin-bottom: 20px;
+    }
+
+    /* jobs & education start */
+    .resume-items .item .card-body p {
+        padding-right: 45px;
+    }
+
+    .resume-items .item .card {
+        margin-left: 33px;
+    }
+
+    .title-section {
+        margin-bottom: 30px;
+        margin-top: 60px;
+    }
+
+    .contact-container .contact .rightside .submit-form {
+        text-align: center;
+    }
+
+    .contact-container .contact .rightside .form-message {
+        margin: 0;
+    }
+
+    .copyRight p {
+        font-size: 16px;
+    }
+
+    .resume-container {
+        background-color: #f6f4f1;
+        padding: 0px 0 50px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .home-img img {
+        display: none;
+    }
+
+    .home_content {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .text-1 h2 {
+        font-size: 27px;
+    }
+
+    .text-2 h1 {
+        font-size: 45px;
+    }
+
+    .text-3 p {
+        padding: 0 26px;
+    }
+
+    .home-button {
+        margin-top: 28px;
+    }
+
+    .home-button a span {
+        font-size: 17px;
+    }
+
+    .home-button a {
+        padding: 8px 35px;
+        font-size: 17px;
+    }
+
+    header {
+        padding-bottom: 40px;
+    }
+
+    /* about me start */
+    .about_header h1 {
+        font-size: 40px;
+    }
+
+    .line1 {
+        display: none;
+    }
+
+    .line2 {
+        display: none;
+    }
+
+    .about_header {
+        margin: 40px 0 28px;
+    }
+
+    .about-img img {
+        height: 450px;
+        width: 400px;
+    }
+
+    .about-content p {
+        font-size: 18px;
+        margin: 20px 37px;
+    }
+
+    .about-content {
+        margin-top: 20px;
+    }
+
+    .d-cv {
+        margin-top: 35px;
+        text-align: center;
+    }
+
+    .d-cv a {
+        padding: 10px 20px;
+    }
+
+    .aboutMe {
+        margin-bottom: 50px;
+    }
+
+    /* servies start */
+    .servies_header h1 {
+        font-size: 40px;
+    }
+
+    .servies_header {
+        padding: 40px 0 35px;
+    }
+
+    .servies1 {
+        padding: 26px 48px;
+        margin: 10px 40px;
+    }
+
+    .servies_content {
+        padding-bottom: 40px;
+    }
+
+    .skils_header h1 {
+        font-size: 50px;
+    }
+
+    .experiance {
+        margin-bottom: 20px;
+    }
+
+    .container-md,
+    .container-sm,
+    .container {
+        max-width: 800px;
+    }
+
+    .title-section {
+        font-size: 30px;
+    }
+
+    .skils_header {
+        padding: 30px 0 50px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .menu ul li a {
+        font-size: 16px;
+        margin-left: 5px;
+    }
+
+    .text-2 h1 {
+        font-size: 52px;
+        margin-bottom: 20px;
+    }
+
+    .home-button a {
+        padding: 10px 40px;
+        font-size: 17px;
+    }
+
+    .home-button a span {
+        font-size: 18px;
+    }
+
+    .line2 {
+        left: 77%;
+    }
+
+    .line1 {
+        left: 18%;
+    }
+
+    .about-content p {
+        font-size: 15px;
+        margin: 30px 0px;
+    }
+
+    .servies_header h1 {
+        font-size: 50px;
+    }
+
+    .servies1 h2 {
+        font-size: 29px;
+    }
+
+    .skils_header {
+        padding: 24px 0 45px;
+    }
+
+    .skils_header h1 {
+        font-size: 46px;
+    }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .text-1 h2 {
+        font-size: 27px;
+    }
+
+    .text-2 h1 {
+        font-size: 55px;
+    }
+
+    .text-3 p {
+        font-size: 17px;
+        margin: 5px 0;
+    }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {}
